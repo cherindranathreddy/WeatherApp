@@ -96,8 +96,6 @@ background: #ff6768;
 border-color: #ff6768;
 transition: all 0.4s ease 0s;
 
-
-
 }
 
 #search-input
@@ -118,7 +116,10 @@ input
 }
 
 
-
+#details_name{
+    color: hsl(29, 72%, 67%);
+    font-family: sans-serif;
+}
 
 
 

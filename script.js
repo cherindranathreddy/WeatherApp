@@ -59,10 +59,6 @@ const getWeather=async (city)=>
         {
             tempicon.src="./icons/clouds-and-sun.svg"
         }
-
-
-
-   
     }
 catch(error)
 {
